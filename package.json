@@ -11,6 +11,9 @@
     "prepare": "npm run build",
     "build": "tsc"
   },
+  "keywords": [
+    "NextLog"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FlamesX-128/NextLog.git"
