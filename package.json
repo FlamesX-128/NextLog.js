@@ -1,8 +1,9 @@
 {
-  "name": "nextlog",
+  "name": "@flamesx_128/nextlog",
   "version": "0.1.0",
   "description": "This library adds different console registers.",
   "main": "dist/index.js",
+  "private": false,
   "dependencies": {
     "chalk": "^4.1.2"
   },
