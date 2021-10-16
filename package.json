@@ -1,0 +1,25 @@
+{
+  "name": "nextlog",
+  "version": "0.1.0",
+  "description": "This library adds different console registers.",
+  "main": "dist/index.js",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlamesX-128/NextLog.git"
+  },
+  "author": "FlamesX-128 <glowingorangeflames@gmail.com>",
+  "license": "MIT",
+  "bin": "dist/index.js",
+  "bugs": {
+    "url": "https://github.com/FlamesX-128/NextLog/issues"
+  },
+  "homepage": "https://github.com/FlamesX-128/NextLog#readme"
+}
