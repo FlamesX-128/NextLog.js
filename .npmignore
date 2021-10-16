@@ -1,4 +1,8 @@
 node_modules
 src
 
+.gitignore
+.yarnignore
+
 tsconfig.json
+yarn.lock
